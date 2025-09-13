@@ -1,0 +1,13 @@
+theme: minima
+title: PH-ormula
+description: Website for Shanghai Pinghe School Math Club
+url: "https://ph-ormula.github.io"
+header_pages:
+  - index.md
+exclude:
+  - _site/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - .bundle/
+  - Gemfile.lock
