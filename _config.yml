@@ -1,7 +1,7 @@
 theme: minima
-title: PH-ormula
-description: Website for Shanghai Pinghe School Math Club
-url: "https://ph-ormula.github.io"
+title: Beyond the Cube
+description: "Beyond the Cube: Mastering Problem-Solving Through Rubik's Wisdom"
+url: "https://beyondthecube.github.io"
 header_pages:
   - index.md
 exclude:

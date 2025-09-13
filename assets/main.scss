@@ -43,3 +43,11 @@ pre, code, .highlight {
 .site-footer {
   font-family: sans-serif !important;
 }
+
+// Default image styling
+figure img {
+  width: 45%;
+  min-width: 100px;
+  max-width: 300px;
+  height: auto;
+}

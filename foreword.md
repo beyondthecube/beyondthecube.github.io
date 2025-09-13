@@ -60,29 +60,35 @@ Take a look at the pieces, and you'll quickly find out that some pieces have 3 s
 
 <figure>
 	<div style="display: flex; gap: 10px;">
-		<img src="/resources/Pieces.png" alt="Pieces" style="width: 40%; height: auto;">
-		<img src="/resources/Core.png" alt="Core" style="width: 40%; height: auto;">
+		<img src="/resources/Pieces.png" alt="Pieces" style="width: 60%; height: auto;">
+		<img src="/resources/Core.png" alt="Core" style="width: 30%; height: auto;">
 	</div>
 	<figcaption>Left: edge piece. Center: corner piece. Right: cube core</figcaption>
 </figure>
 
-- **Does the inside part of the corner and edge pieces look the same? However you scramble the cube, will a two-colored piece end up on the corner? Try putting back a corner piece into where an edge piece belongs, between two centers, does it fit?**
-- **Take a look at the core of the cube, will the relative positions of the center pieces ever change when you scramble a cube (without taking the center caps off)? If not, get familiar with the relative position of centers of different colors (what pros call the *color scheme* of the cube), and especially which pairs of center colors are opposite of each other.**
-- ***\*How many types of pieces are in a 6x6x6 cube? How many types of center pieces does it have? What about edges?***\
-- ***\*This special case in the 4x4x4 cube is called "edge flip parity" because it looks as if the "edge" is flipped, can you explain why this name is inaccurate? Did you answer the previous question about edges correctly?***\
+**Does the inside part of the corner and edge pieces look the same? However you scramble the cube, will a two-colored piece end up on the corner? Try putting back a corner piece into where an edge piece belongs, between two centers, does it fit?**
+
+**Take a look at the core of the cube, will the relative positions of the center pieces ever change when you scramble a cube (without taking the center caps off)? If not, get familiar with the relative position of centers of different colors (what pros call the *color scheme* of the cube), and especially which pairs of center colors are opposite of each other.**
+
+***\*How many types of pieces are in a 6x6x6 cube? How many types of center pieces does it have? What about edges?***
+
+![](https://visualcube.api.cubing.net/visualcube.php?fmt=svg&amp;size=300&amp;pzl=6&amp;sch=wrgwww)
+
+***\*This special case in the 4x4x4 cube is called "edge flip parity" because it looks as if the "edge" is flipped, can you explain why this name is inaccurate? Did you answer the previous question about edges correctly?***
+
+![](https://visualcube.api.cubing.net/visualcube.php?fmt=svg&amp;size=300&amp;pzl=4&amp;fc=wwwwwwwwwwwwwggwrrrrrrrrrrrrrrrrgwwggggggggggggg)
 
 ## The R in DAR: Working a Problem Backwards
 
 To put the cube back together:
 
-1.	Choose one center on the core and make it face down on the table
-2.	Put the 4 edge pieces that should be around it into the right
-	places\
-	![R2.png](resources/R2.png){: width="50%"}
+1. Choose one center on the core and make it face down on the table
+2. Put the 4 edge pieces that should be around it into the right places\
+	![R2.png](resources/R2.png){: width="40%"}
 3.	Put the 4 corners on the same layer into the right places\
-	![R3.png](resources/R3.png){: width="50%"}
+	![R3.png](resources/R3.png){: width="40%"}
 4.	Insert the 4 edges on the middle layer from the top\
-	![R4.png](resources/R4.png){: width="50%"}
+	![R4.png](resources/R4.png){: width="40%"}
 
 You might have doubts about whether a guide on solving a toy puzzle will have any use for real-life problem-solving. This early I already have an example of some of the problem-solving approaches used in this article that can help solve a seemingly completely unrelated problem:
 
