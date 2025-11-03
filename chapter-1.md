@@ -2,6 +2,7 @@
 layout: default
 title: 1. What Exactly is "Solving" Something?
 permalink: /chapter-1/
+toc: true
 ---
 
 # 1. What Exactly is "Solving" Something?

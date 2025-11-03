@@ -2,6 +2,7 @@
 layout: default
 title: 2. Where Should I Start?
 permalink: /chapter-2/
+toc: true
 ---
 
 # 2. Where Should I Start?

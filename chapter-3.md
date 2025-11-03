@@ -2,6 +2,7 @@
 layout: default
 title: "3. Blockbuilding: Breaking Down a Problem Into Substeps"
 permalink: /chapter-3/
+toc: true
 ---
 
 # 3. Blockbuilding: Breaking Down a Problem Into Substeps

@@ -2,6 +2,7 @@
 layout: default
 title: In Place of a Foreword - DAR - an Easy and (Relatively) Fast Method to Solve Any Twisty Puzzle
 permalink: /foreword/
+toc: true
 ---
 
 # In Place of a Foreword - DAR - an Easy and (Relatively) Fast Method to Solve Any Twisty Puzzle.md

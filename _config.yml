@@ -1,9 +1,11 @@
 theme: minima
+minima:
+  skin: auto
+  nav_pages:
+    - index.md
 title: Beyond the Cube
 description: "Beyond the Cube: Mastering Problem-Solving Through Rubik's Wisdom"
 url: "https://beyondthecube.github.io"
-header_pages:
-  - index.md
 exclude:
   - _site/
   - .sass-cache/
@@ -11,3 +13,5 @@ exclude:
   - .jekyll-metadata
   - .bundle/
   - Gemfile.lock
+kramdown:
+  math_engine: mathjax
