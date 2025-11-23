@@ -45,3 +45,5 @@ This question doesn't have a "correct" answer until the next chapter, there are 
 	<img src="https://visualcube.api.cubing.net/visualcube.php?fmt=svg&amp;size=200&amp;pzl=3&amp;fc=ddddwddwwgddggggdddoodoodoo">
 	<figcaption>Why is solving this “T” not a good idea as a first step?</figcaption>
 </figure>
+
+github actions test
