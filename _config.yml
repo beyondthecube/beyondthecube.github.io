@@ -3,6 +3,8 @@ minima:
   skin: auto
   nav_pages:
     - index.md
+    - phcubers.md
+    - ph-ormula.md
 title: Beyond the Cube
 description: "Beyond the Cube: Mastering Problem-Solving Through Rubik's Wisdom"
 url: "https://beyondthecube.github.io"
