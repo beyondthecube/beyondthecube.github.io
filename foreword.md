@@ -39,11 +39,11 @@ But before diving in, I'd like to show you one of the biggest discoveries in cub
 
 To get the 3x3x3 cube into this state, first turn the top layer 45 degrees in either direction.
 
-![U1:2.png](resources/U1_2.png){: width="50%"}
+![U1:2.png](/resources/U1_2.png){: width="50%"}
 
 Then, grab this edge piece in the middle by its sides marked by the red lines and give it a not-so-gentle twist.
 
-![D1.png](resources/D1.png){: width="50%"}
+![D1.png](/resources/D1.png){: width="50%"}
 This piece should come off, and you just got the cube into this special state. You are now able to take all the pieces off the cube and reassemble them in the right order. Thus the name of this method: **Disassemble And Reassemble**.
 
 No, I'm not trying to fool you, *The best way to start learning to solve a Rubik's cube, like solving any other difficult problem, is to get your hands on it and play with it, then you might figure out something important and hopefully how it works*. In the case of the Rubik's cube, taking it apart and putting it back again is a good way to get familiar with the cube, and you might realize that a lot of your assumptions about the cube are wrong.
@@ -85,11 +85,11 @@ To put the cube back together:
 
 1. Choose one center on the core and make it face down on the table
 2. Put the 4 edge pieces that should be around it into the right places\
-	![R2.png](resources/R2.png){: width="40%"}
+	![R2.png](/resources/R2.png){: width="40%"}
 3.	Put the 4 corners on the same layer into the right places\
-	![R3.png](resources/R3.png){: width="40%"}
+	![R3.png](/resources/R3.png){: width="40%"}
 4.	Insert the 4 edges on the middle layer from the top\
-	![R4.png](resources/R4.png){: width="40%"}
+	![R4.png](/resources/R4.png){: width="40%"}
 
 You might have doubts about whether a guide on solving a toy puzzle will have any use for real-life problem-solving. This early I already have an example of some of the problem-solving approaches used in this article that can help solve a seemingly completely unrelated problem:
 
