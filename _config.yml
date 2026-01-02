@@ -1,13 +1,23 @@
-theme: minima
+theme: practical-club-website-template
+title: Beyond the Cube
+description: "Beyond the Cube: Mastering Problem-Solving Through Rubik's Wisdom"
+url: "https://beyondthecube.github.io"
+
 minima:
   skin: auto
   nav_pages:
     - index.md
     - phcubers.md
     - ph-ormula.md
-title: Beyond the Cube
-description: "Beyond the Cube: Mastering Problem-Solving Through Rubik's Wisdom"
-url: "https://beyondthecube.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
 exclude:
   - _site/
   - .sass-cache/
@@ -16,5 +26,3 @@ exclude:
   - .bundle/
   - Gemfile.lock
   - GEMINI.md
-kramdown:
-  math_engine: mathjax
